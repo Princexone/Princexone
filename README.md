@@ -34,7 +34,7 @@
 <a href="https://open.spotify.com/user/315m4pacpkcaieuv6d45fymxpxcm" target="_blank">
 <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
-<a href="mailto:iprincekumar07@gmail.com?subject=Hello&body=Hi%20I%20want%20to%20contact%20you" target="_blank">
+<a href="iprincekumar07@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
