@@ -1,76 +1,93 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">🚀 Future Developer | 🎮 Gamer | 💻 Tech Enthusiast</h3>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/prince-real-8088103a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="iprincekumar07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-##
+### 🌟 About Me
+- 🎓 Student & aspiring developer  
+- 💻 Learning **HTML, CSS, JavaScript & Python**  
+- 🎮 Gamer (GTA V, Ghost Of Tsushima,etc.)  
+- 🚀 Goal: Become a **Full Stack Developer**  
+- 🔥 Always learning, always building  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=princexone.princexone&"  />
-</div>
+---
 
-###
+### 📌 My Journey
+> "I didn’t come this far just to come this far."
 
-<h1 align="center">Hey There</h1>
+- 🌱 Started with basic coding  
+- ⚡ Now building real projects  
+- 🎯 Focused on growth & consistency  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🌐 Connect With Me
 
-###
+<p align="left">
 
-<p align="left">I'm Prince from India<br><br>- 📚 I'm currently learning C++, Java<br>- ⚡ In my free time I play Story Mode Games</p>
+<a href="https://www.youtube.com/@Princeexone" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-###
+<a href="https://open.spotify.com/user/315m4pacpkcaieuv6d45fymxpxcm" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
-<h3 align="left">🛠 Language and tools</h3>
+<a href="mailto:iprincekumar07@gmail.com?subject=Hello&body=Hi%20I%20want%20to%20contact%20you">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+     alt="Gmail" width="50">
+</a>
 
-###
+</p>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+### 🛠️ Tech Stack
 
-###
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princexone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princexone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
-###
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/princexone/princexone/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 🔥 Contribution Snake
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/PRINCEXONE/PRINCEXONE/output/github-contribution-grid-snake.svg"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=princexone.princexone&"  />
-</div>
+### 💡 Quote of the Day
+> "Success is not final, failure is not fatal: it is the courage to continue that counts."
 
-###
+---
+
+### 🎯 Current Focus
+- 📚 Learning Web Development  
+- 🧠 Improving Problem Solving  
+- 🚀 Building Projects  
+
+---
+
+### 🎮 Fun Section
+- 🎧 Music + Coding = 🔥  
+- 🎮 Gaming after coding 😎  
+- ☕ Late night productivity  
+
+---
+
+<h3 align="center">🔥 Thanks for visiting my profile 🔥</h3>
