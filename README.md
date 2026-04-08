@@ -37,7 +37,6 @@
 
 <a href="mailto:iprincekumar07@gmail.com?subject=Hello&body=Hi%20I%20want%20to%20contact%20you">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-     alt="Gmail" width="50">
 </a>
 
 </p>
