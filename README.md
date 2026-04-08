@@ -64,7 +64,7 @@
 ### 🔥 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PRINCEXONE/PRINCEXONE/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Princexone/Princexone/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
