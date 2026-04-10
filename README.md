@@ -8,7 +8,7 @@
 ### 🌟 About Me
 - 🎓 Student & aspiring developer  
 - 💻 Learning **HTML, CSS, JavaScript & Python**  
-- 🎮 Gamer 
+- 🎮 Gamer (Into Story Mode Games)
 - 🚀 Goal: Become a **Full Stack Developer**  
 - 🔥 Always learning, always building  
 
