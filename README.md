@@ -8,7 +8,7 @@
 ### 🌟 About Me
 - 🎓 Student & aspiring developer  
 - 💻 Learning **HTML, CSS, JavaScript & Python**  
-- 🎮 Gamer (GTA V, Ghost Of Tsushima,etc.)  
+- 🎮 Gamer 
 - 🚀 Goal: Become a **Full Stack Developer**  
 - 🔥 Always learning, always building  
 
