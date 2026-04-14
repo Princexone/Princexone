@@ -10,7 +10,7 @@
 - 💻 Learning **HTML, CSS, JavaScript & Python**  
 - 🎮 Gamer (Into Story Mode Games)
 - 🚀 Goal: Become a **Full Stack Developer**  
-- 🔥 Always learning, always building  
+- 🔥 Always learning, always building 
 
 ---
 
