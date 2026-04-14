@@ -19,7 +19,7 @@
 
 - 🌱 Started with basic coding  
 - ⚡ Now building real projects  
-- 🎯 Focused on growth & consistency  
+- 🎯 Focused on growth & consistency
 
 ---
 
