@@ -21,7 +21,7 @@
 - ⚡ Now building real projects  
 - 🎯 Focused on growth & consistency
 
----
+----
 
 ### 🌐 Connect With Me
 
